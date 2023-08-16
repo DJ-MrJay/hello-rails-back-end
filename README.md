@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://en.wikipedia.org/wiki/Ruby_on_Rails#/media/File:Ruby_On_Rails_Logo.svg" alt="logo" width="auto"  height="200" style="margin: 20px 0;" />
+  <img src="https://commons.wikimedia.org/wiki/File:Ruby_On_Rails_Logo.svg#/media/File:Ruby_On_Rails_Logo.svg" alt="logo" width="auto"  height="200" style="margin: 20px 0;" />
   <br>
 </div>
 
