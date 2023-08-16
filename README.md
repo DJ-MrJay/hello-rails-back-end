@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Ruby_On_Rails_Logo.png" alt="logo" width="auto"  height="200" style="margin: 20px 0;" />
+  <img src="./Ruby_On_Rails_Logo.png" alt="logo" width="auto"  height="150" style="margin: 20px 0;" />
   <br>
 </div>
 
@@ -34,22 +34,22 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- Server: <a href="https://rubyonrails.org/">Ruby on Rails</a></li>
-- Database: <a href="https://www.postgresql.org/">PostgreSQL</a></li>
+Server: <a href="https://rubyonrails.org/">Ruby on Rails</a></li>
+Database: <a href="https://www.postgresql.org/">PostgreSQL</a></li>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **Dynamic Randomness:** Generate excitement by serving users with dynamically generated random messages.
+**Dynamic Randomness:** Generate excitement by serving users with dynamically generated random messages.
 
-- **Robust API:** Built on the reliable Ruby on Rails framework, the API offers robustness, scalability, and security.
+**Robust API:** Built on the reliable Ruby on Rails framework, the API offers robustness, scalability, and security.
 
-- **Easy Integration:** Seamlessly integrate the API into your applications using standardized API endpoints.
+**Easy Integration:** Seamlessly integrate the API into your applications using standardized API endpoints.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Frontend of the Project
+### Frontend Part of the Project
 
 [Hello React Frontend](https://github.com/DJ-MrJay/hello-react-front-end)
 
@@ -57,7 +57,7 @@
 
 ### Live Demo <a name="live-demo"></a>
 
-- Not available.
+Not available.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,11 +68,11 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need the following installed on your computer:
-- Ruby v3+,
-- Rails v7+
-- PostgreSQL
-- An IDE e.g. [Visual Studio Code](https://code.visualstudio.com/)
-- A terminal e.g. [Git BASH](https://gitforwindows.org/)
+Ruby v3+,
+Rails v7+
+PostgreSQL
+An IDE e.g. [Visual Studio Code](https://code.visualstudio.com/)
+A terminal e.g. [Git BASH](https://gitforwindows.org/)
 
 ### Setup
 
@@ -97,9 +97,9 @@ bundle install
 ```
 ### Database Setup
 
-- Navigate to `config/database.yml` and edit the username and password with your PostgreSQL credentials (line 21 and 22)
+Navigate to `config/database.yml` and edit the username and password with your PostgreSQL credentials (line 21 and 22)
 
-- Run the following command:
+Run the following command:
 ```
 rails db:create db:migrate db:seed
 ```
@@ -114,7 +114,7 @@ rails server
 
 ### Run tests
 
-- To check for and autofix linter errors, type the following command:
+To check for and autofix linter errors, type the following command:
 
 ```
 rubocop -A
@@ -126,17 +126,17 @@ rubocop -A
 
 👤 **Jonah Wambua**
 
-- GitHub [link](https://github.com/DJ-MrJay)
-- Twitter [link](https://twitter.com/jonah_wambua)
-- LinkedIn [link](https://www.linkedin.com/in/jonah-wambua/)
+GitHub [link](https://github.com/DJ-MrJay)
+Twitter [link](https://twitter.com/jonah_wambua)
+LinkedIn [link](https://www.linkedin.com/in/jonah-wambua/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- User Authentication and Authorization
-- Language Localization
+User Authentication and Authorization
+Language Localization
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,9 +154,9 @@ Give a ⭐️ if you like this project.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- [Microverse](https://www.microverse.org) for a A+ curriculum
-- Code reviewers, coding partners, morning and standup teams for the great insights
-- Hat tip to anyone else whose code was used
+[Microverse](https://www.microverse.org) for a A+ curriculum
+Code reviewers, coding partners, morning and standup teams for the great insights
+Hat tip to anyone else whose code was used
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
