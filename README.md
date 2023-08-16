@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://commons.wikimedia.org/wiki/File:Ruby_On_Rails_Logo.svg#/media/File:Ruby_On_Rails_Logo.svg" alt="logo" width="auto"  height="200" style="margin: 20px 0;" />
+  <img src="./Ruby_On_Rails_Logo.png" alt="logo" width="auto"  height="200" style="margin: 20px 0;" />
   <br>
 </div>
 
@@ -26,9 +26,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 Money Matters <a name="about-project"></a>
+# 📖 Hello World <a name="about-project"></a>
 
 > This is a Ruby on Rails back-end designed to efficiently store, manage, and serve a collection of dynamic random messages.
 
