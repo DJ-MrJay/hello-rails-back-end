@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Ruby_On_Rails_Logo.png" alt="logo" width="auto"  height="150" style="margin: 20px 0;" />
+  <img src="./Ruby_On_Rails_Logo.svg" alt="logo" width="auto"  height="150" style="margin: 20px 0;" />
   <br>
 </div>
 
@@ -82,7 +82,7 @@ Clone this repository or download the Zip folder:
 git clone https://github.com/DJ-MrJay/hello-rails-back-end
 ```
 
-- Navigate to the location of the folder you just cloned:
+Navigate to the location of the folder you just cloned:
 
 ```
 cd hello-rails-back-end
